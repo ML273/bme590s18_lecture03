@@ -1,3 +1,7 @@
+# Resources
+# http://gowrishankarnath.com/read-write-json-python/
+# http://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python
+
 import pandas as pd
 import json
 import numpy
